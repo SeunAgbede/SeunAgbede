@@ -1,10 +1,10 @@
-## :wave: Hello! I'm Seun Agbede
+## :wave: Hello! I'm Seun Agbede :nigeria:
 
 #### :round_pushpin: Few things about me
 
-Graphic designer in my past life 
+:man_artist: Graphic designer in my former life 
 
-:globe_with_meridians: Infinitely curious about the web
+:globe_with_meridians: Curious about the web
 
 :gear: Love learning/building new things
 

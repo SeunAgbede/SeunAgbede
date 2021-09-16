@@ -1,6 +1,6 @@
 ## :wave: Hello! I'm Seun Agbede
 
-####:round_pushpin: Few things about me
+#### :round_pushpin: Few things about me
 
 Graphic designer in my past life 
 

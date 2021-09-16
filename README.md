@@ -1,4 +1,4 @@
-## :wave: Hello! I'm Seun Agbede :nigeria:
+## :wave: Hello! I'm Seun :nigeria:
 
 #### :round_pushpin: Few things about me
 

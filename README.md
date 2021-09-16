@@ -1,4 +1,4 @@
-## :wave: Hello! I'm Seun :nigeria:
+## :wave: Hello! I'm Seun
 
 #### :round_pushpin: Few things about me
 
@@ -8,3 +8,4 @@
 
 :gear: Love learning/building new things
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)

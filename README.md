@@ -2,6 +2,6 @@
 
 ### :round_pushpin: About me
 
-- :man_artist: Designer in my former life - see my [dribbble](https://dribbble.com/SeunAgbede) and [Behance](https://www.behance.net/OluwaseunA) pages.
+- :man_artist: Designer in my former life - [dribbble](https://dribbble.com/SeunAgbede) and [Behance](https://www.behance.net/OluwaseunA)
 - :globe_with_meridians: Curious about the web
 - :gear: Love learning/building new things
